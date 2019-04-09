@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://explorerspassage.com/wp-content/uploads/2016/08/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg); 
+    position: fixed;
+}
+
+.my-header {
+    font-size: 50px;
+    color: ivory;
+    font-family: 'Vast Shadow', cursive;
+    
+}
+
+h3 {
+    margin-bottom: 40px;
+    color: rgb(218, 218, 202);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px
+}
+
+.start-but {
+    color:ivory;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: ivory;
+}
+
+.timer {
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:50px;
+    padding-top: 20px;
+}
+
+.imge {
+    height:200px;
+    width:250px;
+    border: solid 2px #dddddd;
+}
