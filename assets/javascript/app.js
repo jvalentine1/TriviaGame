@@ -102,6 +102,7 @@ function playerScore() {
     $(".my-header").html("<h1>" + "Here's Your Score!" + "</h1>");
     $(".main-window").html("<h3>" + "Correct Answers: " + correct + "</h3>");
     $(".main-window").append("<h3>" + "Incorrect Answers: " + incorrect + "</h3>");
+    $(".main-window").append("<h3>" + "Game Will Restart Momentarily" + "</h3>");
     $(".timer").html("<div>");
     $(".img-center").html("<div>");
     index = 0;
